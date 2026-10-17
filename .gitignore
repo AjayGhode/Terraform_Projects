@@ -1,0 +1,11 @@
+
+# Ignore all .terraform directories and their contents
+.terraform/
+**/.terraform/
+
+# Terraform state files
+*.tfstate
+*.tfstate.*
+
+# Documents
+*.doc
